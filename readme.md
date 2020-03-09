@@ -1,7 +1,7 @@
 # 周曦 Joe XI ZHOU
 |Gender|Age|Mobile/Wechat|Email|
 |------|---|------|-----|
-|Male|32|+86 13422056044|joesee@qq.com|
+|Male|34|+86 13422056044 / +1 9174121934|joesee@qq.com / joesee@gmail.com|
 
 # Skills
 * 10 years **Java**, 8 years **Python**, 6 years **Javascript**, 12 years **Linux**
